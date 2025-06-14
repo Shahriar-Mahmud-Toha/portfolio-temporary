@@ -1,0 +1,11 @@
+# Ignore the .vscode folder
+.vscode/
+
+# Ignore the Backup folder
+Backup/
+
+# Ignore all the .div files of root folder.
+/*.dev*
+
+# Ignore this file from all folder including subfolders.
+**/removeMinFromFilenameAndReplaceWithOriginalFile.bat
